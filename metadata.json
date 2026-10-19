@@ -1,0 +1,6 @@
+{
+  "name": "Headmaster",
+  "description": "Android Virtual Machine runtime hypervisor & custom ROM manager supporting guest OS from Android 4.4W up to Android 17.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
